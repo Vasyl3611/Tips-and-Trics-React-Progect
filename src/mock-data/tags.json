@@ -1,0 +1,54 @@
+[
+    {
+        "id": "ccff8343-eebb-48e4-9baf-c02825ebbf2d",
+        "name": "React"
+    },
+    {
+        "id": "bae6604a-1f62-4956-9cab-35147f40624e",
+        "name": "JavaScript"
+    },
+    {
+        "id": "93f0d6cc-76ed-41ac-b415-3e370528984a",
+        "name": "TypeScript"
+    },
+    {
+        "id": "f75d1aba-853e-4dca-ab75-0339550c5fc7",
+        "name": "VSCode"
+    },
+    {
+        "id": "915b170f-40f2-493b-b584-a7346d9e6e72",
+        "name": "Next.js"
+    },
+    {
+        "id": "2e84d3a3-69de-4685-946f-3a40eac0ac0a",
+        "name": "Node.js"
+    },
+    {
+        "id": "969e4436-abd9-4981-8e5f-99020df77c87",
+        "name": "CSS"
+    },
+    {
+        "id": "16f92c7c-6886-4daf-8afd-c7fab016938e",
+        "name": "GraphQL"
+    },
+    {
+        "id": "edde7e00-d1fa-4b53-ba5c-f0b3e774a09f",
+        "name": "Testing"
+    },
+    {
+        "id": "d6e5b19f-e1a8-47bf-93af-148de776e45c",
+        "name": "Npm"
+    },
+    {
+        "id": "7e94362e-8333-477d-8abd-0324a05520c2",
+        "name": "Git"
+    },
+    {
+        "id": "efb8dcf1-5f95-4f38-adcc-a3cf498abdd1",
+        "name": "Tools"
+    },
+    {
+        "id": "9485878f-9c1a-4aff-9d5d-9108416f7267",
+        "name": "macOS"
+    }
+]
